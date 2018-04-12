@@ -1,7 +1,10 @@
 # Machine-Learning-Andrew-Ng
 coursera上吴恩达老师的机器学习课程记录。
 
-课程里的代码，都是由Matlab或是Octave实现的，包括Tuition都丝毫没有涉及到Python，因此打算用Python实现一遍。
+课程里的内容是有matlab和octave实现，这里采用python，基础的库：numpy，matplotlib以及pandas，部分代码参考: [https://github.com/HuangCongQing/MachineLearning_Ng](https://github.com/HuangCongQing/MachineLearning_Ng)
 
-1. [Linear regression with multiple variables]()
-2. 
+1. [Linera Regression](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter1/1%E3%80%81Linear%2BRegression.ipynb)
+2. ​
+
+
+
