@@ -5,7 +5,8 @@ coursera上吴恩达老师的机器学习课程记录。
 
 1. [Linera Regression](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter1/1%E3%80%81Linear%2BRegression.ipynb) 
 2. [Regression Regression](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter2/LogisticRegression.ipynb)
-3. ​
+3. [Multi-class Classification and Neural Networks](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter3/Multi-class%20Classification%20and%20Neural%20Networks.ipynb)
+4. ​
 
 
 
