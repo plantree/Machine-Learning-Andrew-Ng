@@ -9,7 +9,8 @@ coursera上吴恩达老师的机器学习课程记录。
 4. [Neural Networks Learning](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter4/Neural%20Networks%20Learning.ipynb)
 5. [Regularized Linear Regression and Bias v.s. Variance](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter5/Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance.ipynb)
 6. [Support Vector Machine](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter6/Support%20Vector%20Machine.ipynb)
-7. ​
+7. [K-means and PCA](https://github.com/plantree/Machine-Learning-Andrew-Ng/blob/master/chapter7/K-means%20and%20PCA.ipynb)
+8. ​
 
 
 
